@@ -15,7 +15,7 @@ It uses a collection of basic image processing techniques and K-Nearest Neighbor
 ## Usage:
 
 
-> git clone 
+> git clone https://github.com/mvnsia/Sudoku-Solver
 
 > cd Sudoku-Solver
 
